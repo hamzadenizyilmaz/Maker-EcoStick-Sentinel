@@ -1,4 +1,4 @@
-# EcoStick Sentinel: Advanced Portable Environmental Monitoring with M5Stick-C
+# Maker EcoStick Sentinel: Advanced Portable Environmental Monitoring with M5Stick-C
 
 ## Introduction
 
